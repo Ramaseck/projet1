@@ -1,0 +1,343 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+    gap: 50px;
+    margin-left: 50%;
+
+}
+
+
+.navbar a{
+    text-decoration: none;
+    font-size: 20px;
+    justify-content: center;
+    color: black;
+
+
+}
+.navbar a:hover{
+    color: rgb(239, 184, 19);
+}
+.h1{
+ 
+     
+}
+.contain{
+    display: flex;
+    gap: 10px;
+
+
+}
+.contain p{
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+    margin-top: 20px;
+}
+.info{
+    margin-left:20px ;
+}
+
+
+/* apropos*/
+.conteneur{
+    margin: auto;
+    width: 500px;
+}
+
+
+/*oeuvre*/
+
+.contains{
+    display: GRID;
+}
+.img1,.img2,.img3,.img4,.img5,.img6{
+
+ 
+}
+
+.img1{grid-area: img1;}
+.img2{grid-area: img2;}
+.img3{grid-area: img3;}
+.img4{grid-area: img4;}
+.img5{grid-area: img5;}
+.img7{grid-area: img7;}
+.contains{
+    display: grid;
+    grid-template-areas: 
+    'img1 img2 img3 '
+    'img4 img5 img7';
+    padding: 10px;
+    width: -10px;
+    gap: 40px;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.img1{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*av{
+    background-color: antiquewhite;
+    box-shadow: 5px 10px #f8f3f3;
+    color: white;
+    border-radius: 12px;
+
+
+}
+body,*{
+    margin: 0;
+    padding: 0;
+}
+nav span{
+    color: orange;
+}
+ .logo{
+    margin-left: 10px;
+    font-size: 30px;
+    
+
+}
+
+.navbar{
+   display: flex;
+ 
+   font-size: 20px;
+
+}
+.boite1,.boite2 ,.boite3{
+    width: 300px;
+    height: 200px;
+}
+.boite1{
+    background-color: red;
+}
+.boite2{
+    background-color: orange;
+}
+.boite3{
+    background-color: green;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.navbar div{
+    padding: 30px;
+
+}
+
+footer{
+    margin-top: 30%;
+    background-color: black;
+    color: white;
+    height: 100%;
+    padding: 10px;
+}
+
+ footer .p1{
+    margin-left: 93%;
+}
+
+.menu{
+  display: none;
+}
+
+
+@media screen and (max-width:600px){
+    body{
+    .navbar{
+        display: none;
+    }
+    .menu{
+        display: inline;
+    }
+    footer .p1{
+        margin-left: 0;
+    }
+    }
+    
+}*/
+
+
+
+
+
+
+
